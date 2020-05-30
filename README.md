@@ -1,5 +1,4 @@
-# Made in Termux-Lab
-python3<br>
+Скрипт сделан на Python3
 
 Установка
 
