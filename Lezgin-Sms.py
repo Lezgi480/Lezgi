@@ -1289,8 +1289,6 @@ def qwwww(_phone):
             iteration += 1
         except:
             break
-
-
 y = 0
 os.system("clear")
 while len(anim) > y:
