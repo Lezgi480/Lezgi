@@ -2,7 +2,7 @@
 
 Установка
 
-git clone https://github.com/Lezgi480/Lezgin-Derbent.git
+git clone https://github.com/Lezgi480/Lezgi.git
 
 requests
 colorama
