@@ -1341,6 +1341,8 @@ anim = [
   ______(_)(_)___|________________|
 
 """]
+sovet = [""" https://vk.com/iiii05. 
+"""]
 y = 0
             
 os.system("clear")
