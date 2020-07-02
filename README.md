@@ -13,4 +13,3 @@ colorama
 
 Мой вк- https://vk.com/iiii05
 
-Вк группа- https://vk.com/ha_hack
